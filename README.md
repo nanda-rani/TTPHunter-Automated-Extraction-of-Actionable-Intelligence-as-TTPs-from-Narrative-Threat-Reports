@@ -5,4 +5,4 @@ Download the Model files using [this link](https://drive.google.com/drive/folder
 ### Step2:
 Place the files in a directory and name the directory as "MODEL"
 ### Step3:
-Run Jupyter notebook
+Run the Jupyter notebook
