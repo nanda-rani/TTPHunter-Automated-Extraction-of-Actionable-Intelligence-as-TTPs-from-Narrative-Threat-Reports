@@ -14,3 +14,12 @@ Run the Jupyter notebook
 If you are using content of this repository in any capacity, kindly cite this work.
 
 Rani, N., Saha, B., Maurya, V., & Shukla, S. K. (2023). TTPHunter: Automated Extraction of Actionable Intelligence as TTPs from Narrative Threat Reports. In Proceedings of the 2023 Australasian Computer Science Week (pp. 126-134).
+
+**Bibtex**
+@incollection{rani2023ttphunter,
+  title={TTPHunter: automated extraction of actionable intelligence as TTPs from narrative threat reports},
+  author={Rani, Nanda and Saha, Bikash and Maurya, Vikas and Shukla, Sandeep Kumar},
+  booktitle={Proceedings of the 2023 Australasian Computer Science Week},
+  pages={126--134},
+  year={2023}
+}
