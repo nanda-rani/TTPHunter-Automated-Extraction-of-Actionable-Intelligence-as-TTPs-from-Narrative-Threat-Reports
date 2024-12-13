@@ -23,3 +23,6 @@ Rani, N., Saha, B., Maurya, V., & Shukla, S. K. (2023). TTPHunter: Automated Ext
   pages={126--134},
   year={2023}
 }
+
+### Connected Research
+- Explore the extended research titled *"TTPXHunter-Actionable-Threat-Intelligence-Extraction-as-TTPs-from-Finished-Cyber-Threat-Reports"*. The paper can be accessed at [this link](https://dl.acm.org/doi/abs/10.1145/3579375.3579391). The model, and inference code are available on GitHub at [this repository](https://github.com/nanda-rani/TTPXHunter-Actionable-Threat-Intelligence-Extraction-as-TTPs-from-Finished-Cyber-Threat-Reports/).
